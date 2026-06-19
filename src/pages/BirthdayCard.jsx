@@ -11,29 +11,185 @@ const images = [
 
 const letter = `Dear Erangi Madam,
 
-Today is your birthday, and I felt that a simple WhatsApp message wasn't enough for someone who has had such a meaningful impact on my life. I wanted to surprise you in a more memorable and creative way, so I created this website as a small birthday gift filled with gratitude.
+Today is your birthday, and I realized that a simple WhatsApp message could never hold everything I wanted to say. So instead, I created this small website.
 
-You are not just my favourite lecturer. You are one of the most important teachers in my life so far. Since childhood, I was always a bright and active student. Even at Bandaranayaka College, I performed well academically, became section first, and was often one of the favourite students among teachers. Leadership always came naturally to me.
+Not because it's fancy. Not because it's perfect. But because some people deserve more than a birthday wish.
 
-But when I entered a private university like ICBT Gampaha, everything felt different. It was a very heavy moment in my life. I carried a lot of disappointment and guilt inside me. My parents struggled financially to support my education. They only have me, and I only have them. No relatives, no grandparents, just the three of us. Because of that, I always felt pressure in my heart. I kept questioning myself: "Am I really capable of completing this degree?" "What if I fail again?" Even though my parents believed in me, I did not fully believe in myself at that time.
+They deserve a heartfelt thank you.
 
-But everything slowly started to change when you believed in me. Your encouragement gave me hope again, and it felt like I was slowly returning to my better self. From that moment, I decided to work harder and prove to myself that I could do it.
+And if anyone deserves that from me, it's you.
 
-As someone who often stays alone, I understand how painful loneliness and having no one to help can be. That is why I started helping my batchmates and juniors with their academics without expecting anything in return. I just wanted to give something back. Even though I am an introvert, it was not always easy. Slowly, people started to recognize me. They trusted me and came to me for help. Many of them said talking to me felt like relief because I listen without judging. But I never had someone like that in my life before.
+When people look at me today, they see a First Class graduate. They see an Academic Excellence achiever. They see the first President of SCC. They see someone who takes responsibility, helps others, and somehow manages to get things done.
 
-Then came SCC. Becoming the first President of SCC is one of the most meaningful chapters of my university life. I took that responsibility with the hope of making the ICBT Gampaha IT faculty a better place. I did my best and created a legacy with my team. I met genuine people, shared unforgettable moments, and grew a lot as a person.
+But very few people know the person I was before all of that.
 
-At first, I honestly thought you were very strict and a bit hard to approach. But later I understood something else. You are actually a kind person with a strong personality and a good heart. I rarely shared my problems with anyone, but you were different. Talking with you, even for a minute, felt like relief. You are a healer in your own way. You healed a boy who did not even care if he woke up the next day.
+There was a time when I smiled in front of people while quietly fighting battles inside. A time when I questioned myself more than anyone else ever could. A time when I felt the weight of my future resting heavily on my shoulders.
 
-From a self-doubting student, to an academic excellence achiever, to a First Class graduate, this is my journey.
+I never spoke much about it.
 
-Now my university life is coming to an end. No more questions and no more random messages asking for advice. But I will never forget you. I promise I will continue my journey with everything you taught me. One day, you can proudly say, "That is my student." And I will proudly say, "She is the one who believed in me when I could not believe in myself."
+I just carried it.
 
-If you ever need anything, you can always call me. I do not like calls, but I will still answer yours.
+Quietly.
 
-Happy Birthday, Madam. I wish you all the happiness in the world. Keep your kind heart and your child-like smile forever. As they say, "Some people come into our lives and quietly change everything." You are one of them.
+Like I always do.
 
-- Hasaranga Samarakoon
+Then, somewhere along the way, you became part of my story.
+
+Nothing changed overnight. There was no dramatic turning point. But little by little, things started becoming lighter. It was like sunlight slowly finding its way into a dark room.
+
+You encouraged me.
+
+You trusted me.
+
+You believed in me.
+
+And sometimes, when someone has forgotten how to believe in themselves, those simple things can change everything.
+
+You probably never realized it. To you, it may have been a few conversations, a few words, a few ordinary moments.
+
+But to me, those moments were never ordinary.
+
+They became memories I carried home.
+
+Memories I still carry today.
+
+Then SCC happened.
+
+Out of all the students you could have chosen, you trusted me to build something from nothing. You trusted me to become its first President. You gave me a responsibility that was far bigger than a title.
+
+And there is one moment I will never forget.
+
+One day, in front of everyone, you said something like,
+
+"I gave that responsibility to Hasaranga, so I don't have to worry."
+
+You may not even remember saying it.
+
+But I remember hearing it.
+
+Because sometimes a single sentence becomes a lifetime memory.
+
+At that moment, I wasn't hearing a lecturer speak.
+
+I was hearing someone say,
+
+"I trust you."
+
+And those words meant more to me than you will ever know.
+
+The truth is, Madam, many people appreciated me after I succeeded. Many people believed in me after I proved myself.
+
+But you believed in me before any of those things happened.
+
+That is what makes you different.
+
+You saw something in me before I could see it in myself.
+
+You saw potential in a student who was still trying to find his place. You saw strength in a boy who was secretly exhausted.
+
+And because of that, I slowly became the person I am today.
+
+I have to admit, when I first met you, I thought you were very strict.
+
+Actually... a little scary too. 😅
+
+But over time, I discovered something completely different behind that strong personality—a genuinely kind heart.
+
+The kind of heart students remember long after lectures end.
+
+The kind of heart that changes lives without asking for recognition.
+
+The kind of heart that makes people feel seen.
+
+I rarely shared my struggles with anyone, but talking to you always felt different.
+
+It felt safe.
+
+It felt lighter.
+
+It felt like, for a moment, I didn't have to carry everything alone.
+
+You were never just teaching modules.
+
+You were quietly healing people.
+
+Including me.
+
+You helped heal a boy who had stopped believing in himself.
+
+And today, that same boy stands here as a First Class graduate.
+
+If my university journey were a book, your name wouldn't appear on every page.
+
+But it would be written on the pages that changed the entire story.
+
+Now my university life is coming to an end.
+
+Soon there will be no more SCC work, no more random messages, and no more,
+
+"Madam, can I ask something?"
+
+Life will move forward.
+
+New students will arrive.
+
+New leaders will emerge.
+
+New stories will begin.
+
+And one day, I will simply become another graduate among the thousands of students you have taught.
+
+But you will never be just another lecturer to me.
+
+Years from now, when people ask how I became the person I am, I will tell them about my parents, who sacrificed so much to give me a future.
+
+And I will tell them about a lecturer named Erangi who helped me believe in myself again.
+
+One day, I hope you can proudly say,
+
+"That is my student."
+
+Because wherever life takes me, I will always proudly say,
+
+"She is the lecturer who believed in me when I couldn't."
+
+Before I finish, there is one last thing I want to say.
+
+If I have ever disappointed you...
+
+If I have ever tested your patience...
+
+If any word, action, or mistake of mine hurt you, even unintentionally...
+
+I am truly sorry.
+
+Not because my university journey is ending.
+
+But because some people become too important for us to leave behind with regrets.
+
+And you are one of those people.
+
+Thank you for every lesson.
+
+Thank you for every opportunity.
+
+Thank you for every bit of trust you placed in me.
+
+But most importantly, thank you for changing a life without even realizing you were doing it.
+
+Happy Birthday, Madam.
+
+May life give you the same happiness, kindness, and love that you have given to so many others.
+
+And if there is just one thing I hope you remember after reading this letter, it is this:
+
+Long after I forget lecture notes, assignment marks, presentation slides, and classroom walls...
+
+I will never forget you.
+
+With love, gratitude, and endless respect,
+
+Hasaranga Samarakoon
 `;
 export default function BirthdayCard() {
   const [open, setOpen] = useState(false);
@@ -105,21 +261,8 @@ export default function BirthdayCard() {
 
   return (
     <div className="relative min-h-screen flex items-center justify-center text-white overflow-hidden">
-      {/* 🌄 BACKGROUND SLIDESHOW */}
-      <AnimatePresence mode="wait">
-        <motion.img
-          key={imgIndex}
-          src={images[imgIndex]}
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          exit={{ opacity: 0 }}
-          transition={{ duration: 1.5 }}
-          className="absolute w-full h-full object-cover scale-105"
-        />
-      </AnimatePresence>
-
       {/* dark overlay */}
-      <div className="absolute inset-0 bg-black/80" />
+      <div className="absolute inset-0 bg-gradient-to-br from-purple-950 via-slate-950 to-black" />
 
       {/* ❤️ floating hearts (stable, not re-generated every render) */}
       <div className="absolute inset-0 pointer-events-none">
