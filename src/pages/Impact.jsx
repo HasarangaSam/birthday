@@ -7,7 +7,7 @@ const impacts = [
     title: "You Gave Me Confidence",
     text: `Before I met you, I often questioned myself and my abilities.
     You saw potential in me before I fully saw it in myself.
-    That belief slowly became confidence.`,
+    That belief slowly became confidence aaaaa.`,
   },
   {
     icon: "🚀",
