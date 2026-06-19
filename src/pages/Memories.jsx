@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-
+import { useNavigate } from "react-router-dom";
 const memories = [
   {
     title: "The Beginning",
@@ -91,6 +91,7 @@ const memories = [
 
 export default function Memories() {
   const [index, setIndex] = useState(0);
+  const navigate = useNavigate();
 
   // auto switch memory
   useEffect(() => {
@@ -156,13 +157,14 @@ export default function Memories() {
         </div>
 
         {/* NAVIGATION */}
+
         <div className="mt-10">
-          <a
-            href="/impact"
+          <button
+            onClick={() => navigate("/impact")}
             className="bg-purple-600 hover:bg-purple-700 px-6 py-3 rounded-full font-semibold transition"
           >
             Continue to Impact →
-          </a>
+          </button>
         </div>
       </div>
     </div>
