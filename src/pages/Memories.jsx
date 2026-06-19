@@ -4,88 +4,93 @@ import { useNavigate } from "react-router-dom";
 const memories = [
   {
     title: "The Beginning",
-    desc: "The first time I stepped into your guidance — it changed everything.",
+    desc: "The first SCC event we worked on together.",
     image: "/images/prac.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "Christmas CSR",
+    desc: "Bringing a little extra joy to Christmas.",
     image: "/images/sccevent.jpeg",
   },
   {
-    title: "The Beginning",
-    desc: "The first time I stepped into your guidance — it changed everything.",
+    title: "SCC Trip",
+    desc: "Months of planning, days of memories.",
     image: "/images/trip.jpeg",
   },
   {
-    title: "Student Circle of Computing",
-    desc: "You trusted me as the first president. That trust became my strength.",
+    title: "Starlit Romance",
+    desc: "A day that showed how much your students appreciate you.",
     image: "/images/val.jpeg",
   },
   {
-    title: "Academic Growth",
-    desc: "From uncertainty to First Class — every step had your support.",
+    title: "Hack-O-Rama Winners",
+    desc: "Not only organizing, but winning too.",
     image: "/images/hack.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "Ramazan Celebration",
+    desc: "Good food, good company, great memories.",
     image: "/images/cel.jpeg",
   },
   {
-    title: "Birthday Celebration 🎉",
-    desc: "A memory full of laughter, joy, and gratitude.",
+    title: "Birthday Celebration",
+    desc: "Cake, laughter, photos, and gifts.",
     image: "/images/birth.jpeg",
   },
   {
-    title: "Birthday Celebration 🎉",
-    desc: "A memory full of laughter, joy, and gratitude.",
+    title: "Ms. Anjana's Birthday",
+    desc: "A surprise planned together.",
     image: "/images/birtha.jpeg",
   },
   {
-    title: "Birthday Celebration 🎉",
-    desc: "A memory full of laughter, joy, and gratitude.",
+    title: "Ms. Upeksha's Birthday",
+    desc: "A small gift with a big meaning.",
     image: "/images/upe.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "Participating Everywhere",
+    desc: "Not just organizing events, but enjoying them too.",
     image: "/images/event.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "Small Gifts",
+    desc: "Remember the little gifts I gave?",
     image: "/images/saban.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "Little Treats",
+    desc: "Food was always the number one priority.",
     image: "/images/bada.jpeg",
   },
   {
-    title: "Birthday Celebration 🎉",
-    desc: "A memory full of laughter, joy, and gratitude.",
+    title: "SCC Lunch Out",
+    desc: "One table, countless conversations.",
     image: "/images/lunch.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "SCC Closing Ceremony",
+    desc: "The final day of my presidency.",
     image: "/images/scc.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "Academic Excellence",
+    desc: "Following the advice you gave from day one.",
     image: "/images/grad.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "Remember This WhatsApp Message?",
+    desc: "Done & Dusted, as you say.",
     image: "/images/chat.jpeg",
   },
   {
-    title: "Gratitude",
-    desc: "You didn’t just teach — you shaped my life direction.",
+    title: "First Class Graduate",
+    desc: "The journey ended with a First Class.",
     image: "/images/first.jpeg",
+  },
+  {
+    title: "So Many More Memories...",
+    desc: "Some memories were never captured, only remembered.❤️",
+    image: "/images/memories.jpg",
   },
 ];
 
@@ -97,7 +102,7 @@ export default function Memories() {
   useEffect(() => {
     const interval = setInterval(() => {
       setIndex((prev) => (prev + 1) % memories.length);
-    }, 3000);
+    }, 4000);
 
     return () => clearInterval(interval);
   }, []);

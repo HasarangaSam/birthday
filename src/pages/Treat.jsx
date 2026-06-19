@@ -64,10 +64,10 @@ export default function Treat() {
             animate={{ opacity: 1, y: 0 }}
             className="text-4xl md:text-6xl font-bold text-center mb-8 z-10"
           >
-            🎁 One Important Question...
+            One Important Question...
           </motion.h1>
 
-          <p className="text-gray-300 text-center mb-12 z-10 text-lg">
+          <p className="text-white text-center mb-12 z-10 text-2xl font-semibold">
             Madam, do you give me a birthday treat? 😄
           </p>
 

@@ -10,7 +10,7 @@ export default function Surprise() {
     "You saw the difference you made... 🌱",
     "You discovered how much you are appreciated... ❤️",
     "But wait...",
-    "There is one more thing before your birthday surprise... 🎁",
+    "There is one more thing before your birthday surprise...",
   ];
 
   const [index, setIndex] = useState(0);

@@ -9,30 +9,32 @@ const images = [
   "/images/era3.jpeg",
 ];
 
-const letter = `Dear Madam,
+const letter = `Dear Erangi Madam,
 
-Today is your special day.
+Today is your birthday, and I felt that a simple WhatsApp message wasn't enough for someone who has had such a meaningful impact on my life. I wanted to surprise you in a more memorable and creative way, so I created this website as a small birthday gift filled with gratitude.
 
-This website was created not just to say Happy Birthday,
-but to express deep gratitude.
+You are not just my favourite lecturer. You are one of the most important teachers in my life so far. Since childhood, I was always a bright and active student. Even at Bandaranayaka College, I performed well academically, became section first, and was often one of the favourite students among teachers. Leadership always came naturally to me.
 
-You believed in me when I was still unsure of myself.
+But when I entered a private university like ICBT Gampaha, everything felt different. It was a very heavy moment in my life. I carried a lot of disappointment and guilt inside me. My parents struggled financially to support my education. They only have me, and I only have them. No relatives, no grandparents, just the three of us. Because of that, I always felt pressure in my heart. I kept questioning myself: "Am I really capable of completing this degree?" "What if I fail again?" Even though my parents believed in me, I did not fully believe in myself at that time.
 
-You gave me opportunities that shaped my journey,
-from academics to leadership in the Student Circle of Computing.
+But everything slowly started to change when you believed in me. Your encouragement gave me hope again, and it felt like I was slowly returning to my better self. From that moment, I decided to work harder and prove to myself that I could do it.
 
-Everything I have achieved carries a part of your guidance.
+As someone who often stays alone, I understand how painful loneliness and having no one to help can be. That is why I started helping my batchmates and juniors with their academics without expecting anything in return. I just wanted to give something back. Even though I am an introvert, it was not always easy. Slowly, people started to recognize me. They trusted me and came to me for help. Many of them said talking to me felt like relief because I listen without judging. But I never had someone like that in my life before.
 
-Some people teach.
-Some guide.
-And some quietly change lives forever.
+Then came SCC. Becoming the first President of SCC is one of the most meaningful chapters of my university life. I took that responsibility with the hope of making the ICBT Gampaha IT faculty a better place. I did my best and created a legacy with my team. I met genuine people, shared unforgettable moments, and grew a lot as a person.
 
-You are one of them.
+At first, I honestly thought you were very strict and a bit hard to approach. But later I understood something else. You are actually a kind person with a strong personality and a good heart. I rarely shared my problems with anyone, but you were different. Talking with you, even for a minute, felt like relief. You are a healer in your own way. You healed a boy who did not even care if he woke up the next day.
 
-Happy Birthday Madam 🎂❤️
+From a self-doubting student, to an academic excellence achiever, to a First Class graduate, this is my journey.
 
-— Hasaranga`;
+Now my university life is coming to an end. No more questions and no more random messages asking for advice. But I will never forget you. I promise I will continue my journey with everything you taught me. One day, you can proudly say, "That is my student." And I will proudly say, "She is the one who believed in me when I could not believe in myself."
 
+If you ever need anything, you can always call me. I do not like calls, but I will still answer yours.
+
+Happy Birthday, Madam. I wish you all the happiness in the world. Keep your kind heart and your child-like smile forever. As they say, "Some people come into our lives and quietly change everything." You are one of them.
+
+- Hasaranga Samarakoon
+`;
 export default function BirthdayCard() {
   const [open, setOpen] = useState(false);
   const [text, setText] = useState("");

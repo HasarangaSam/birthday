@@ -217,7 +217,7 @@ export default function BirthdayCake() {
             />
 
             <img
-              src="/images/memory1.jpeg"
+              src="/images/era2.jpeg"
               alt="Erangi"
               className="
                 relative
@@ -298,7 +298,7 @@ export default function BirthdayCake() {
                     to-teal-500
                   "
                 >
-                  💌 Open Birthday Card
+                  💌 Open Birthday Letter
                 </motion.button>
               </motion.div>
             )}
