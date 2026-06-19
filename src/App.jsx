@@ -6,7 +6,6 @@ import Memories from "./pages/Memories";
 import Impact from "./pages/Impact";
 import Surprise from "./pages/Surprise";
 import Treat from "./pages/Treat"; // 💝 NEW
-import Birthday from "./pages/Birthday";
 import BirthdayCake from "./pages/BirthdayCake";
 import BirthdayCard from "./pages/BirthdayCard";
 
@@ -25,9 +24,6 @@ function App() {
 
         {/* 💝 NEW INTERACTIVE PAGE */}
         <Route path="/treat" element={<Treat />} />
-
-        {/* 🎉 FINAL BIRTHDAY PAGE */}
-        <Route path="/birthday" element={<Birthday />} />
 
         <Route path="/birthday-cake" element={<BirthdayCake />} />
         <Route path="/birthday-card" element={<BirthdayCard />} />
