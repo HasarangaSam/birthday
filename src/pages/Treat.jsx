@@ -75,7 +75,32 @@ export default function Treat() {
             {/* YES */}
             <button
               onClick={handleYes}
-              className="bg-green-500 hover:bg-green-600 px-6 sm:px-8 py-3 rounded-full font-bold text-base sm:text-lg transition hover:scale-110"
+              className="
+    bg-gradient-to-b
+    from-green-400
+    to-green-600
+
+    px-8 sm:px-10
+    py-3
+
+    rounded-full
+    font-bold
+    text-white
+    text-base sm:text-lg
+
+    shadow-[0_6px_0_rgb(21,128,61)]
+
+    hover:translate-y-[2px]
+    hover:shadow-[0_4px_0_rgb(21,128,61)]
+
+    active:translate-y-[6px]
+    active:shadow-none
+
+    transition-all
+    duration-200
+
+    hover:scale-110
+  "
             >
               Yes 💖
             </button>
@@ -92,15 +117,40 @@ export default function Treat() {
               }}
               onMouseEnter={moveNoButton}
               onTouchStart={moveNoButton}
-              className="absolute bg-red-500 px-5 sm:px-8 py-3 rounded-full font-bold text-sm sm:text-lg"
+              className="
+              absolute
+
+              bg-gradient-to-b
+              from-red-400
+              to-red-600
+
+              px-5 sm:px-8
+              py-3
+
+              rounded-full
+              font-bold
+              text-white
+              text-sm sm:text-lg
+
+              shadow-[0_6px_0_rgb(127,29,29)]
+
+              select-none
+            "
             >
               {messages[messageIndex]}
             </motion.button>
           </div>
 
-          <p className="text-gray-500 mt-8 md:mt-10 text-center z-10 text-sm sm:text-base">
-            Choose carefully... 😏
-          </p>
+          <div className="mt-8 md:mt-10 text-center z-10">
+            <p className="text-gray-400 text-sm sm:text-base font-semibold">
+              Choose carefully... 😏
+            </p>
+
+            <p className="text-pink-300 mt-3 text-xs sm:text-sm">
+              💡 Hint: The red button has completed advanced escape training...
+              nobody has successfully captured it yet 😜
+            </p>
+          </div>
         </>
       ) : (
         <motion.div
@@ -108,7 +158,18 @@ export default function Treat() {
           animate={{ scale: 1, opacity: 1 }}
           className="text-center z-10 max-w-xl"
         >
-          <div className="text-6xl sm:text-7xl md:text-8xl mb-6">🎉</div>
+          <motion.div
+            animate={{
+              rotate: [0, -10, 10, -10, 0],
+            }}
+            transition={{
+              repeat: Infinity,
+              duration: 2,
+            }}
+            className="text-6xl sm:text-7xl md:text-8xl mb-6"
+          >
+            🎉
+          </motion.div>
 
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-pink-300">
             I knew you'd say YES 😄

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import confetti from "canvas-confetti";
+import { useNavigate } from "react-router-dom";
 
 const images = [
   "/images/era.jpeg",
@@ -198,6 +199,7 @@ const shimmerDots = Array.from({ length: 34 }, (_, i) => ({
 }));
 
 export default function BirthdayCard() {
+  const navigate = useNavigate();
   const [open, setOpen] = useState(false);
   const [text, setText] = useState("");
   const [imgIndex, setImgIndex] = useState(0);
@@ -435,13 +437,12 @@ export default function BirthdayCard() {
                           Thank You Madam
                         </h2>
 
-                        <p className="mt-3 text-sm text-gray-300 sm:text-base">
-                          This journey was made with gratitude.
-                        </p>
-
-                        <p className="mt-3 text-xs text-gray-500 sm:text-sm">
-                          The End
-                        </p>
+                        <button
+                          onClick={() => navigate("/support-jar")}
+                          className="mt-5 rounded-full bg-purple-600 px-6 py-3 text-sm font-bold text-white shadow-[0_16px_36px_rgba(147,51,234,0.28)] transition hover:bg-purple-700 sm:text-base"
+                        >
+                          One More Thing I Think You May Need
+                        </button>
                       </motion.div>
                     )}
                   </AnimatePresence>

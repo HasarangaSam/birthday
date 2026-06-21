@@ -18,7 +18,7 @@ export default function Journey() {
       >
         {/* Title */}
         <h1 className="text-4xl md:text-5xl font-bold mb-6">
-          You unlocked it… 🎓
+          You unlocked it… ⛓️‍💥
         </h1>
 
         {/* Message */}

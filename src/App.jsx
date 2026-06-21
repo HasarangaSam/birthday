@@ -8,6 +8,7 @@ import Surprise from "./pages/Surprise";
 import Treat from "./pages/Treat"; // 💝 NEW
 import BirthdayCake from "./pages/BirthdayCake";
 import BirthdayCard from "./pages/BirthdayCard";
+import EmotionalSupportJar from "./pages/EmotionalSupportJar";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
 
         <Route path="/birthday-cake" element={<BirthdayCake />} />
         <Route path="/birthday-card" element={<BirthdayCard />} />
+        <Route path="/support-jar" element={<EmotionalSupportJar />} />
       </Routes>
     </BrowserRouter>
   );

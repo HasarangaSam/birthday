@@ -58,7 +58,7 @@ export default function Impact() {
           transition={{ duration: 0.8 }}
           className="text-5xl md:text-7xl font-bold mb-8"
         >
-          🌱 The Difference You Made
+          🎖 The Difference You Made
         </motion.h1>
 
         <motion.p
