@@ -6,13 +6,15 @@ import Memories from "./pages/Memories";
 import Impact from "./pages/Impact";
 import Surprise from "./pages/Surprise";
 import Treat from "./pages/Treat"; // 💝 NEW
+import BackgroundMusic from "./components/BackgroundMusic";
+import BirthdayFireworks from "./pages/BirthdayFireworks";
 import BirthdayCake from "./pages/BirthdayCake";
 import BirthdayCard from "./pages/BirthdayCard";
-import EmotionalSupportJar from "./pages/EmotionalSupportJar";
 
 function App() {
   return (
     <BrowserRouter>
+      <BackgroundMusic />
       <Routes>
         {/* 🔐 Locked entry point */}
         <Route path="/" element={<CodeGate />} />
@@ -26,9 +28,9 @@ function App() {
         {/* 💝 NEW INTERACTIVE PAGE */}
         <Route path="/treat" element={<Treat />} />
 
+        <Route path="/birthday-fireworks" element={<BirthdayFireworks />} />
         <Route path="/birthday-cake" element={<BirthdayCake />} />
         <Route path="/birthday-card" element={<BirthdayCard />} />
-        <Route path="/support-jar" element={<EmotionalSupportJar />} />
       </Routes>
     </BrowserRouter>
   );

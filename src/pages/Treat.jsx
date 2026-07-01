@@ -34,7 +34,7 @@ export default function Treat() {
     setShowSuccess(true);
 
     setTimeout(() => {
-      navigate("/birthday-cake");
+      navigate("/birthday-fireworks");
     }, 2500);
   };
 
